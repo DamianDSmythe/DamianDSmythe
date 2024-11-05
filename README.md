@@ -23,13 +23,3 @@
 
 <div align="left">
 </div>
-
-###
-
-<img align="right" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnUxODc2cjk5cXdoODAwODhwZTh1b3o1bW5xdmxlMjN1NWRmMWRtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XyNOH1sGc6Jr9Msu6y/giphy.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/DamianDSmythe/DamianDSmythe/output/snake.svg" alt="Snake animation" />
-
-###
