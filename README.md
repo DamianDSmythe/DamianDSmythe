@@ -1,5 +1,3 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DamianDSmythe&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DamianDSmythe&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DamianDSmythe&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DamianDSmythe&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DamianDSmythe&theme=gotham&utcOffset=8)
+![DamianDSmythe's Stats](https://github-readme-stats.vercel.app/api?username=DamianDSmythe&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![DamianDSmythe's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DamianDSmythe&theme=vue-dark&hide_border=false)
+![DamianDSmythe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DamianDSmythe&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
